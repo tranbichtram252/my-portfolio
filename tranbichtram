@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+    </header>
+
+    <main>
+        <h2>About Me</h2>
+        <p>This is a simple portfolio page created for my Coursera project.</p>
+
+        <h2>My Hobbies</h2>
+        <ul>
+            <li>Reading books</li>
+            <li>Photography</li>
+            <li>Traveling</li>
+        </ul>
+
+        <h2>My Gallery</h2>
+        <img src="https://via.placeholder.com/150" alt="A scenic mountain view">
+        <img src="https://via.placeholder.com/150" alt="A beautiful sunset over the ocean">
+        <img src="https://via.placeholder.com/150" alt="A close-up of a blooming flower">
+
+        <h2>Learn More</h2>
+        <p>Check out this <a href="https://www.w3schools.com/html/" target="_blank">HTML tutorial</a> for more resources.</p>
+    </main>
+
+    <footer>
+        <p>created by tranbichtram252</p>
+    </footer>
+</body>
+</html>
